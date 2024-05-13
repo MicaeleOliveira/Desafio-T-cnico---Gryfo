@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color> <!-- Cor principal do aplicativo -->
+    <color name="colorPrimaryDark">#222222</color> <!-- Cor escura primária -->
+    <color name="colorAccent">#FFFFFF</color> <!-- Cor de destaque -->
+
+    <!-- Outras cores personalizadas podem ser adicionadas aqui -->
+</resources>
